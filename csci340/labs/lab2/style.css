@@ -1,15 +1,31 @@
-.football{
-  padding: 250px 0;
-  margin: 30px;
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;
-  background-image: url("football-stadium-tunnel-102671.jpg");
-  background-size: cover;
-  color: ##1177BA;
-}
-h1{
-  font-size: 56px;
-}
-.page-title {
-  text-align: center;
-  font-weight: 100;
-}
+
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+
+
+    .row.content {height: 450px}
+
+
+    .sidenav {
+      padding-top: 20px;
+      background-color: #1177BA;
+      height: 100%;
+    }
+
+
+    footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+    }
+
+
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+      .row.content {height:auto;{
+    }
