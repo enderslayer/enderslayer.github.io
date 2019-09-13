@@ -14,8 +14,11 @@
       height: 100%;
     }
 
-    .Sun-image{
-      height: 300px;
+    .Sun{
+      color: #FFFF00;
+    }
+    .sun-image{
+      height: 25%;
     }
     .well{
       background-color: #555;
