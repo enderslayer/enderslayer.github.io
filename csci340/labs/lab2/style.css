@@ -1,7 +1,8 @@
 .football{
   padding: 250px 0;
   margin: 30px;
-  background-image: url("https://snappygoat.com/s/?q=football#ce332d43f2c91ce5f5344ad79413d843f4e529a3,0,69.");
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  background-image: url("	football-stadium-tunnel-102671.jpg ");
   background-size: cover;
   color: #ffffff;
 }
