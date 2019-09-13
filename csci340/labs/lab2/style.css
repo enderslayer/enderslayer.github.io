@@ -13,9 +13,7 @@
       background-color: #1177BA;
       height: 100%;
     }
-    .image{
-      object-fit: cover;
-    }
+
     .Sun{
       color: #FFFF00;
     }
@@ -46,4 +44,5 @@
     }
     h3{
       font-size: 75px;
+      font-family: fantasy;
     }
