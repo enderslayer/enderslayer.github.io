@@ -23,6 +23,9 @@
     .sun-text{
       color: white;
     }
+    .fit{
+      object-fit: fill;
+    }
 
     footer {
       background-color: #555;
