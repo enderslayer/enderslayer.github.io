@@ -9,3 +9,7 @@
 h1{
   font-size: 56px;
 }
+.page-title {
+  text-align: center;
+  font-weight: 100;
+}
