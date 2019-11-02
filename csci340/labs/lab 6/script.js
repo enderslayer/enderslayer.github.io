@@ -18,6 +18,7 @@ $(document).ready(function(){
       url: 'https://quote-garden.herokuapp.com/quotes/random',
       success:function(results){
         console.log(results['quoteText']);
+        $('#quote').text(results['quoteText']);
       }
     });
   });
