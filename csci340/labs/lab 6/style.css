@@ -1,3 +1,14 @@
 body{
   background-color: lightblue;
+  text-align: center;
+}
+#image{
+  height: 450px;
+  width:450px;
+}
+#quote{
+  font-family: 'Liu Jian Mao Cao', cursive;
+}
+#question{
+  font-family: 'Bowlby One SC', cursive;
 }
